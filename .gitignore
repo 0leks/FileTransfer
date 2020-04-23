@@ -27,5 +27,7 @@ hs_err_pid*
 .settings/
 TEST/
 TEST_RECEIVE/
+RECEIVE/
+bin/
 config.xml
 
